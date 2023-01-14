@@ -1,0 +1,4 @@
+install some tools to make it work:
+visual studio code
+python (last version 3.11)
+also you need go to python console and type: pip install cryptography
